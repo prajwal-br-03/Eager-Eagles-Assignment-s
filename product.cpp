@@ -24,5 +24,8 @@ void menu(){
 	cin>>choice;
 }
 void additem(products items[],&counter){
-
+    int a;
+    int b;
+    int c;
+}
 
